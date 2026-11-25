@@ -2,3 +2,5 @@ neuroscience-env/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+*.nwb
+*.nwb
